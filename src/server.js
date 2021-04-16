@@ -1,16 +1,16 @@
 // main entry point for API server
 const express = require('express');
-const passport = require('passport');
 const cors = require('cors');
 const morgan = require('morgan');
 const routes = require('./routes');
-const connectDB  = require('./db')
+// const passport = require('passport');
+// const connectDB  = require('./db');
 
 // sets environment variables based on centents of .env file
 require('dotenv').config();
 
 // db
-connectDB();
+// connectDB();
 
 // start server instance
 const app = express();
@@ -29,12 +29,15 @@ app.use(morgan('dev'));
 // url middleware
 app.use(express.json());
 // session management middleware
-app.use(passport.initialize());
-app.use(passport.session());
+// app.use(passport.initialize());
+// app.use(passport.session());
+
+// serve static files
+app.use('/static', express.static(path.join(__dirname, '../', 'static')))
 
 
 // route handlers entrypoint for all routes
-app.use('/api/v1', routes);
+app.use('/', routes);
 
 // begin listening on given port
 const PORT = process.env.PORT || 5000;

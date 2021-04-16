@@ -3,7 +3,7 @@ const router = express.Router();
 const { notFound, genericErrorHandler } = require('../middleware/errorHandlers');
 
 // defin route handlers
-const peopleRouter = require('./peopleRouter');
+const themesRouter = require('./themesRouter');
 
 // basic response on Root endpoint
 router.get('/', function(req, res){
@@ -14,7 +14,7 @@ router.get('/', function(req, res){
 });
 
 // apply handlers to specific routes
-router.use('/people', peopleRouter);
+router.use('/themes', themesRouter);
 
 // if none of the above routes handle the request it will error out here
 router.use(notFound);
