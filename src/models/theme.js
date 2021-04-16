@@ -1,4 +1,4 @@
-import ColorSchema from './color';
+const ColorSchema = require('./color');
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
@@ -8,7 +8,7 @@ var ThemeSchema = new Schema({
     type: String,
     required: true
   },
-  collection: {
+  themeCollection: {
     type: String,
     required: true
   },
