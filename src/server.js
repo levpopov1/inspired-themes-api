@@ -3,7 +3,7 @@ const path = require('path');
 const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
-const routes = require('./routes');
+// const routes = require('./routes');
 // const passport = require('passport');
 // const connectDB  = require('./db');
 
@@ -34,11 +34,11 @@ app.use(express.json());
 // app.use(passport.session());
 
 // serve static files
-app.use('/static', express.static(path.join(__dirname, '../', 'static')))
+app.use('/static', express.static(path.join(__dirname, '../', 'public')))
 
 
 // route handlers entrypoint for all routes
-app.use('/', routes);
+// app.use('/', routes);
 
 // begin listening on given port
 const PORT = process.env.PORT || 5000;
