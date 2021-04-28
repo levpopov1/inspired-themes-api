@@ -1,5 +1,4 @@
-const ColorSchema = require('./color');
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 const Schema = mongoose.Schema;
 
 var ThemeSchema = new Schema({
@@ -8,7 +7,7 @@ var ThemeSchema = new Schema({
     type: String,
     required: true
   },
-  themeCollection: {
+  collectionName: {
     type: String,
     required: true
   },
@@ -21,21 +20,86 @@ var ThemeSchema = new Schema({
   },
   colors: {
     primary: {
-      type: ColorSchema
+      name: {
+        type: String,
+        required: true
+      },
+      hex: {
+        type: String,
+        required: true
+      },
+      rgb: {
+        type: String
+      },
+      hsl: {
+        type: String
+      }
     },
     secondary: {
-      type: ColorSchema
+      name: {
+        type: String,
+        required: true
+      },
+      hex: {
+        type: String,
+        required: true
+      },
+      rgb: {
+        type: String
+      },
+      hsl: {
+        type: String
+      }
     },
     highlight: {
-      type: ColorSchema
+      name: {
+        type: String,
+        required: true
+      },
+      hex: {
+        type: String,
+        required: true
+      },
+      rgb: {
+        type: String
+      },
+      hsl: {
+        type: String
+      }
     },
     dark: {
-      type: ColorSchema
+      name: {
+        type: String,
+        required: true
+      },
+      hex: {
+        type: String,
+        required: true
+      },
+      rgb: {
+        type: String
+      },
+      hsl: {
+        type: String
+      }
     },
     light: {
-      type: ColorSchema
+      name: {
+        type: String,
+        required: true
+      },
+      hex: {
+        type: String,
+        required: true
+      },
+      rgb: {
+        type: String
+      },
+      hsl: {
+        type: String
+      }
     }
   }
 });
 
-module.exports = mongoose.model('Theme', ThemeSchema, 'themes');
+export default mongoose.model('Theme', ThemeSchema, 'themes');

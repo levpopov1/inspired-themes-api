@@ -1,4 +1,4 @@
-import Theme from '../models/Theme.js';
+import Collection from '../models/Collection.js';
 
 function getAll(req, res){
     res.status(200).json(req.items);
@@ -10,8 +10,8 @@ function getOne(req, res){
 
 async function post(req, res, next){
     try {
-        const newTheme = await Theme.create(req.body);
-        return res.status(200).json(newTheme);
+        const newCollection = await Collection.create(req.body);
+        return res.status(200).json(newCollection);
     } catch (error) {
         next(error);
     }

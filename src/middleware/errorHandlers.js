@@ -13,7 +13,7 @@ function genericErrorHandler(err, req, res, next) {
     });
 }
 
-module.exports = {
+export {
     notFound,
     genericErrorHandler
 };
