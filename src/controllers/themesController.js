@@ -1,4 +1,4 @@
-import Theme from '../models/Theme.js';
+import Theme from '../models/theme.js';
 
 function getAll(req, res){
     res.status(200).json(req.items);

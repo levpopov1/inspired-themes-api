@@ -1,4 +1,4 @@
-import Collection from '../models/Collection.js';
+import Collection from '../models/collection.js';
 
 function getAll(req, res){
     res.status(200).json(req.items);
