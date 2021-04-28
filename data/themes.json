@@ -5,7 +5,7 @@
   "name": "Sakura",
   "collectionName": "Tokyo Series",
   "slug": "tokyo-series/sakura",
-  "image": "/static/img/sakura_pastel.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/sakura_pastel.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -45,7 +45,7 @@
   "name": "Pastel",
   "collectionName": "Tokyo Series",
   "slug": "tokyo-series/pastel",
-  "image": "/static/img/Tokyo-pastel.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Tokyo-pastel.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -85,7 +85,7 @@
   "name": "Sunset",
   "collectionName": "Tokyo Series",
   "slug": "tokyo-series/sunset",
-  "image": "/static/img/Eh3gRgUU0AQ7ZOZ.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Eh3gRgUU0AQ7ZOZ.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -125,7 +125,7 @@
   "name": "Neons",
   "collectionName": "Tokyo Series",
   "slug": "tokyo-series/neons",
-  "image": "/static/img/51054431217_69836a275f_k.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/51054431217_69836a275f_k.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -165,7 +165,7 @@
   "name": "White Noise",
   "collectionName": "Tokyo Series",
   "slug": "tokyo-series/white-noise",
-  "image": "/static/img/grain-3.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/grain-3.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -205,7 +205,7 @@
   "name": "Hydrogen Clouds",
   "collectionName": "The Great Silence",
   "slug": "the-great-silence/hydrogen-clouds",
-  "image": "/static/img/the-great-silence-1.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/the-great-silence-1.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -245,7 +245,7 @@
   "name": "Starglow",
   "collectionName": "The Great Silence",
   "slug": "the-great-silence/starglow",
-  "image": "/static/img/the-great-silence-0.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/the-great-silence-0.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -285,7 +285,7 @@
   "name": "Atmosphere",
   "collectionName": "The Great Silence",
   "slug": "the-great-silence/atmosphere",
-  "image": "/static/img/the-great-silence-2.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/the-great-silence-2.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -325,7 +325,7 @@
   "name": "Nebula",
   "collectionName": "The Great Silence",
   "slug": "the-great-silence/nebula",
-  "image": "/static/img/the-great-silence-3.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/the-great-silence-3.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -365,7 +365,7 @@
   "name": "Ice Giant",
   "collectionName": "The Great Silence",
   "slug": "the-great-silence/ice-giant",
-  "image": "/static/img/the-great-silence-4.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/the-great-silence-4.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -405,7 +405,7 @@
   "name": "Dolomites",
   "collectionName": "Landscapes",
   "slug": "landscapes/dolomites",
-  "image": "/static/img/Dolomites-summer.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Dolomites-summer.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -445,7 +445,7 @@
   "name": "Esperance Beach",
   "collectionName": "Landscapes",
   "slug": "landscapes/esperance-beach",
-  "image": "/static/img/Esperance-beach-Australia.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Esperance-beach-Australia.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -485,7 +485,7 @@
   "name": "Faroe Islands",
   "collectionName": "Landscapes",
   "slug": "landscapes/faroe-islands",
-  "image": "/static/img/Faroe-islands-coastline.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Faroe-islands-coastline.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -525,7 +525,7 @@
   "name": "Glacier National Park",
   "collectionName": "Landscapes",
   "slug": "landscapes/glacier-notional-park",
-  "image": "/static/img/Glacier-National-Park-Montana.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Glacier-National-Park-Montana.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -565,7 +565,7 @@
   "name": "Lake Hāwea",
   "collectionName": "Landscapes",
   "slug": "landscapes/lake-hawea",
-  "image": "/static/img/infrared-Lake-Hawea-new-zeland.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/infrared-Lake-Hawea-new-zeland.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -605,7 +605,7 @@
   "name": "Kauai",
   "collectionName": "Landscapes",
   "slug": "landscapes/kauai",
-  "image": "/static/img/Kauai-northern-shore-Hawaii.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Kauai-northern-shore-Hawaii.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -645,7 +645,7 @@
   "name": "Island of Senja",
   "collectionName": "Landscapes",
   "slug": "landscapes/island-of-senja",
-  "image": "/static/img/midnight-sun-island-of-Senja-Northern-Norway.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/midnight-sun-island-of-Senja-Northern-Norway.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -685,7 +685,7 @@
   "name": "Mizar and Alcor",
   "collectionName": "Landscapes",
   "slug": "landscapes/mizar-and-alcor",
-  "image": "/static/img/Mizar-and-Alcor-nightscapes-upstate-NY.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Mizar-and-Alcor-nightscapes-upstate-NY.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -725,7 +725,7 @@
   "name": "Mono Lake",
   "collectionName": "Landscapes",
   "slug": "landscapes/mono-lake",
-  "image": "/static/img/Mono-Lake-California.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Mono-Lake-California.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -765,7 +765,7 @@
   "name": "Sedona Peaks",
   "collectionName": "Landscapes",
   "slug": "landscapes/sedona-peaks",
-  "image": "/static/img/Sedona-peaks-Arizona.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Sedona-peaks-Arizona.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -805,7 +805,7 @@
   "name": "Ha Long Bay",
   "collectionName": "Landscapes",
   "slug": "landscapes/ha-long-bay",
-  "image": "/static/img/Vietnam-Ha-Long-Bay.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Vietnam-Ha-Long-Bay.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -845,7 +845,7 @@
   "name": "Yosemite National Park",
   "collectionName": "Landscapes",
   "slug": "landscapes/yosemite-national-park",
-  "image": "/static/img/Yosemite-rain.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/Yosemite-rain.jpg",
   "colors": {
     "primary": {
       "name": "Primary",
@@ -884,7 +884,7 @@
   },
   "name": "Camellia",
   "collectionName": "Botanicals",
-  "image": "/static/img/pink-camellia.jpg",
+  "image": "https://api.themes.levpopov.dev/static/img/pink-camellia.jpg",
   "slug": "botanicals/camellia",
   "colors": {
     "primary": {
