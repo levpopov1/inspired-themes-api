@@ -1,0 +1,1118 @@
+[
+  {
+    "name": "Sakura",
+    "collectionName": "Tokyo Series",
+    "slug": "tokyo-series/sakura",
+    "image": "/static/img/sakura_pastel.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#e1caaa",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#41373b",
+        "rgb": "rgb(239,239,0)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#8cc125",
+        "rgb": "rgb(0,120,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#211f20",
+        "rgb": "rgb(0,0,82)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#ededed",
+        "rgb": "rgb(239,239,255)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Pastel",
+    "collectionName": "Tokyo Series",
+    "slug": "tokyo-series/pastel",
+    "image": "/static/img/Tokyo-pastel.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#bd8dbd",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#71b6ef",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#ccb8f7",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#16033f",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#f9d2d3",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Sunset",
+    "collectionName": "Tokyo Series",
+    "slug": "tokyo-series/sunset",
+    "image": "/static/img/Eh3gRgUU0AQ7ZOZ.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#153e4b",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#ca989b",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#f89e79",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#040d12",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#ffecec",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Neons",
+    "collectionName": "Tokyo Series",
+    "slug": "tokyo-series/neons",
+    "image": "/static/img/51054431217_69836a275f_k.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#04e6fd",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#db133f",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#fbc861",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#1c2634",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#f7f4fb",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "White Noise",
+    "collectionName": "Tokyo Series",
+    "slug": "tokyo-series/white-noise",
+    "image": "/static/img/grain-3.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#0f5161",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#9e5732",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#f1c9a0",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#07131f",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#f7fbfe",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Hydrogen Clouds",
+    "collectionName": "The Great Silence",
+    "slug": "the-great-silence/hydrogen-clouds",
+    "image": "/static/img/the-great-silence-1.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#2a5fbf",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#0a6f4d",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#86b7f2",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#0a090f",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#edecfa",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Starglow",
+    "collectionName": "The Great Silence",
+    "slug": "the-great-silence/starglow",
+    "image": "/static/img/the-great-silence-0.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#17172f",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#ff9882",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#7a78c7",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#0b0a17",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#fdce9b",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Atmosphere",
+    "collectionName": "The Great Silence",
+    "slug": "the-great-silence/atmosphere",
+    "image": "/static/img/the-great-silence-2.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#e24c27",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#1e142f",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#f9843e",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#0c0914",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#e6d1c5",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Nebula",
+    "collectionName": "The Great Silence",
+    "slug": "the-great-silence/nebula",
+    "image": "/static/img/the-great-silence-3.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#1999fe",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#3e1921",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#e56fbc",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#140605",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#01d6fe",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Ice Giant",
+    "collectionName": "The Great Silence",
+    "slug": "the-great-silence/ice-giant",
+    "image": "/static/img/the-great-silence-4.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#1d458a",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#08174b",
+        "rgb": "rgb(239,239,0)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#a0614f",
+        "rgb": "rgb(0,120,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#060b27",
+        "rgb": "rgb(0,0,82)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#e6e6e9",
+        "rgb": "rgb(239,239,255)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Dolomites",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/dolomites",
+    "image": "/static/img/Dolomites-summer.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#18251b",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#dca669",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#fddd00",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#121616",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#f0ebe8",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Esperance Beach",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/esperance-beach",
+    "image": "/static/img/Esperance-beach-Australia.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#02cfd8",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#e3e2e4",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#95d1dc",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#00657a",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#f0efed",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/faroe-islands",
+    "image": "/static/img/Faroe-islands-coastline.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#304a59",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#94714e",
+        "rgb": "rgb(239,239,0)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#f7d0ae",
+        "rgb": "rgb(0,120,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#151618",
+        "rgb": "rgb(0,0,82)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#f4f3ee",
+        "rgb": "rgb(239,239,255)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Glacier National Park",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/glacier-notional-park",
+    "image": "/static/img/Glacier-National-Park-Montana.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#936a98",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#505086",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#e59b84",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#0a0e0d",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#f6e1dd",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Lake Hāwea",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/lake-hawea",
+    "image": "/static/img/infrared-Lake-Hawea-new-zeland.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#1a4e62",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#e77281",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#daceb8",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#03080c",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#fafafa",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Kauai",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/kauai",
+    "image": "/static/img/Kauai-northern-shore-Hawaii.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#00687e",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#fdb35e",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#feee73",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#0e1d22",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#e6ddda",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Island of Senja",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/island-of-senja",
+    "image": "/static/img/midnight-sun-island-of-Senja-Northern-Norway.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#142131",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#d39c69",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#fff0cf",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#020814",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#d2c3c6",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Mizar and Alcor",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/mizar-and-alcor",
+    "image": "/static/img/Mizar-and-Alcor-nightscapes-upstate-NY.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#0174df",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#001e68",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#d9919d",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#0a081e",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#b5b5d9",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Mono Lake",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/mono-lake",
+    "image": "/static/img/Mono-Lake-California.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#224173",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#ee6465",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#c1c1db",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#08090b",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#fbfbf5",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Sedona Peaks",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/sedona-peaks",
+    "image": "/static/img/Sedona-peaks-Arizona.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#6f97c4",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#9a3310",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#fee0b1",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#1e0f01",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#ebedf2",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Ha Long Bay",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/ha-long-bay",
+    "image": "/static/img/Vietnam-Ha-Long-Bay.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#a3b7d8",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#457d6e",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#94bb69",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#0c1119",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#e7e5ef",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Yosemite National Park",
+    "collectionName": "Landscapes",
+    "slug": "landscapes/yosemite-national-park",
+    "image": "/static/img/Yosemite-rain.jpg",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#28444f",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#205a54",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#f6be86",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#101c1e",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#ededeb",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Camellia",
+    "collectionName": "Botanicals",
+    "image": "/static/img/pink-camellia.jpg",
+    "slug": "botanicals/camellia",
+    "colors": {
+      "primary": {
+        "name": "Primary",
+        "hex": "#a62e22",
+        "rgb": "rgb(0,0,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "secondary": {
+        "name": "Secondary",
+        "hex": "#1b2c1a",
+        "rgb": "rgb(239,239,0)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "highlight": {
+        "name": "Highlight",
+        "hex": "#dcc9cf",
+        "rgb": "rgb(0,120,239)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "dark": {
+        "name": "Dark",
+        "hex": "#191814",
+        "rgb": "rgb(0,0,82)",
+        "hsl": "hsl(240,100%,20%)"
+      },
+      "light": {
+        "name": "Light",
+        "hex": "#d6e0e2",
+        "rgb": "rgb(239,239,255)",
+        "hsl": "hsl(240,100%,20%)"
+      }
+    }
+  },
+  {
+    "name": "Freesia",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/freesia",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Hydrangea",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/hydrangea",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Sakura",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/sakura",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Wisteria",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/wisteria",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Lily of the Valley",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/lily-of-the-valley",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Mango Tulip",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/mango-tulip",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Delphinium",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/delphinium",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Sunflower",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/sunflower",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Forget Me Not",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/forget-me-not",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Night Sky Petunia",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/night-sly-petunia",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  },
+  {
+    "name": "Lagrass",
+    "collectionName": "Botanicals",
+    "slug": "botanicals/lagrass",
+    "colors": {
+      "primary": {
+        "name": "Primary"
+      },
+      "secondary": {
+        "name": "Secondary"
+      },
+      "highlight": {
+        "name": "Highlight"
+      },
+      "dark": {
+        "name": "Dark"
+      },
+      "light": {
+        "name": "Light"
+      }
+    }
+  }
+]
