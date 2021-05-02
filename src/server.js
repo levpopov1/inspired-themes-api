@@ -35,6 +35,7 @@ app.use(express.json());
 // app.use(passport.session());
 
 // need these if using Node.js ES Modues
+// See: https://stackoverflow.com/questions/8817423/why-is-dirname-not-defined-in-node-repl
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 

@@ -10,6 +10,6 @@ const Collection = mongoose.model('Collection');
 router.get('/', findAll(Collection), collectionsController.getAll);
 router.get('/:id', findByID(Collection), collectionsController.getOne);
 
-router.post('/', collectionsController.post);
+// router.post('/', collectionsController.post);
 
 export default router;

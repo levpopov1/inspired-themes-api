@@ -10,6 +10,6 @@ const Theme = mongoose.model('Theme');
 router.get('/', findAll(Theme), themesController.getAll);
 router.get('/:id', findByID(Theme), themesController.getOne);
 
-router.post('/', themesController.post);
+// router.post('/', themesController.post);
 
 export default router;
