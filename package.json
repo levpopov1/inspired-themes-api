@@ -1,7 +1,7 @@
 {
-  "name": "node-api-template",
+  "name": "inspired-themes-api",
   "version": "1.0.0",
-  "description": "Node boilerplate for simple API",
+  "description": "API for Inspired Themes app",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/levpopov1/node-api-template.git"
+    "url": "git+https://github.com/levpopov1/inspired-themes-api.git"
   },
   "keywords": [
     "nodejs",
@@ -20,9 +20,9 @@
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/levpopov1/node-api-template/issues"
+    "url": "https://github.com/levpopov1/inspired-themes-api/issues"
   },
-  "homepage": "https://github.com/levpopov1/node-api-template#readme",
+  "homepage": "https://github.com/levpopov1/inspired-themes-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",

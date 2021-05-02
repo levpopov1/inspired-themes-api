@@ -1,5 +1,3 @@
-# Node boilerplate for simple API
+# Node.js API for Inspired Themes app
 
-Nodejs, express and mongoose API starter template
-
-To get started just clone and `npm install`, then `npm run dev` to start the dev server. 
+This API provides the data for my Inspired Themes React app. 
